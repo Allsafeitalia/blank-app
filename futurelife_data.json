@@ -1,0 +1,16 @@
+[
+  {
+    "area": "Salute",
+    "goal": "Allenamento",
+    "impact": 5,
+    "effort": 3,
+    "deadline": "2026-08-26"
+  },
+  {
+    "area": "Finanze",
+    "goal": "Controllare spese",
+    "impact": 4,
+    "effort": 2,
+    "deadline": "2026-08-26"
+  }
+]
